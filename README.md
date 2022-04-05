@@ -1,3 +1,3 @@
 # CNN_mnist_neural_network
-Detect digit using CNN
+Detect digit using CNN/n
 Dataset MNIST
